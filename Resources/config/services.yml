@@ -1,0 +1,4 @@
+services:
+#    felipy_amorim_bootstrap_datetimepicker.example:
+#        class: FelipyAmorim\BootstrapDatetimepickerBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

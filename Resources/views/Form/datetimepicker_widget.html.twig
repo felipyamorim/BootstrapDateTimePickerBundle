@@ -1,0 +1,8 @@
+{% block date_time_picker_widget %}
+    <div data-format="DD/MM/YYYY HH:mm" class="datetimepicker input-group date mb-lg">
+        <input type="text" {{ block('widget_attributes') }} class="form-control">
+        <span class="input-group-addon">
+            <span class="fa fa-calendar"></span>
+        </span>
+    </div>
+{% endblock %}
