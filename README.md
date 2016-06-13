@@ -23,7 +23,7 @@ Add the dependency to your composer.json
 ```yml
     "require": {
         ...
-	    "felipyamorim/BootstraoDateTimePickerBundle" : "dev-master"
+	    "felipyamorim/bootstrap-datetime-picker-bundle" : "dev-master"
 	}
 ```
 

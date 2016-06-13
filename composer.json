@@ -1,5 +1,5 @@
 {
-    "name": "felipyamorim/BootstrapDatetimePickerBundle",
+    "name": "felipyamorim/bootstrap-datetime-picker-bundle",
     "description": "Provides a fully-featured datetime picker field",
     "type": "symfony-bundle",
     "license": "MIT",
