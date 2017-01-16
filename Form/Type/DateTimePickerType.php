@@ -33,7 +33,7 @@ class DateTimePickerType extends AbstractType
     public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults(array(
-            'picker_format' => 'DD/MM/YYYY',
+            'picker_format' => 'DD/MM/YYYY HH:mm',
             'picker_icon' => false
         ));
     }
